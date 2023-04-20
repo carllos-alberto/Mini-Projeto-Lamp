@@ -3,7 +3,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/carllos-alberto/Mini-Projeto-Lamp/blob/master/Licence) 
 
 ## Link de acesso a página
-<p><a href="https://tela-de-login-nu.vercel.app/" target="_blank">🔗Clique aqui</a></p>
+<p><a href="https://mini-projeto-lamp.vercel.app/" target="_blank">🔗Clique aqui</a></p>
 
 ## Sobre o projeto
 Mini Projeto que mostra uma lâmpada, com comandos de ligar e desligar. Ao clicar duas vezes ele quebra. 
